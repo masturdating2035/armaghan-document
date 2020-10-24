@@ -102,12 +102,23 @@
     - logo192.png
     - logo 512.png
     - manifest.json
-    - robots.txt
-    
+    - robots.txt 
   - src/
     - config/
-      - config.js
-    
+    - helpers/
+    - redux/
+    - statics/
+    - styles/
+    - ui/
+    - API.js
+    - API.test.js
+    - history.js
+    - index.js
+    - PrivateRoute.jsx
+    - PublicRoute.jsx
+    - serviceWorker.js
+    - setup Tests.js
+    - Text.js
   - .env
   - .gitignore
   - package.json
