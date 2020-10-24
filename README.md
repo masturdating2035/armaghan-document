@@ -94,10 +94,8 @@
 
 
 ## Folder Structure :file_folder:
-- my-app/
-  - README.md
-  - node_modules/
-  - package.json
+- ar-tv/
+  - node_modules/  
   - public/
     - index.html
     - favicon.ico
@@ -108,6 +106,14 @@
     - index.css
     - index.js
     - logo.svg
+  - .env
+  - .gitignore
+  - package.json
+  - package-lock.json
+  - README.md
+  - yarn.lock
+ 
+
 
 
 
