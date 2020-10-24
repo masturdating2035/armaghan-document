@@ -99,13 +99,15 @@
   - public/
     - index.html
     - favicon.ico
+    - logo192.png
+    - logo 512.png
+    - manifest.json
+    - robots.txt
+    
   - src/
-    - App.css
-    - App.js
-    - App.test.js
-    - index.css
-    - index.js
-    - logo.svg
+    - config/
+      - config.js
+    
   - .env
   - .gitignore
   - package.json
