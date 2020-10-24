@@ -1,4 +1,4 @@
-## Packages :package:
+## :package: Packages 
 - `axios`
 - `fontawesome`
 - `formik`
@@ -32,7 +32,7 @@
 - `videojs-vtt-thumbnails`
 
 
-## Routes :door:
+## :door: Routes 
 * this route forward user to __Home__ component                         => `<Route path='/' exact component={Home}/>`
 * this route forward user to __Vod__ component                          => `<Route path='/vod' exact component={Vod}/>`
 * this route forward user to __SingleVod__ component                    => `<Route path='/vod/:id' component={SingleVod}/>`
@@ -53,11 +53,11 @@
 * if user enter the wrong url so user forward to __NotFound__ component => `<Route path='*' component={NotFound}/>`
 
 
-## Public Routes :door::unlock:
+## :door::unlock: Public Routes 
 * this is Public Route, if user want to enter Private Route must be login first  => `<PublicRoute path='/login' isAuth={this.props.isAuth} component={Login}/>`
 
 
-## Private Routes :door::lock:
+## :door::lock: Private Routes 
 ### This is Private Routes, if user login, he/she can enter to Private Routes
 * this route forward user to __Packages__ component                     => `<PrivateRoute path='/accounting/packages' isAuth={this.props.isAuth} component={Packages}/>`
 * this route forward user to __Invoice__ component                      => `<PrivateRoute path='/invoice/preview/:id' exact isAuth={this.props.isAuth} component={Invoice}/>`
@@ -66,7 +66,7 @@
 * this route forward user to __EditProfile__ component                  => `<PrivateRoute path='/profile/edit' isAuth={this.props.isAuth} component={EditProfile}/>`
 
 
-## Components :pushpin:
+## :pushpin: Components 
 ### Intro components and what they are doing in app
 #### Home => `this component included Menu, Home Main Slider, Horizontal Slider => included Category and Category Items`
 #### Vod  => `this component exist on Menu and included Movies Category and Movies Item`
@@ -93,7 +93,7 @@
 #### SingleCategory => `???`
 
 
-## Folder Structure :file_folder:
+## :file_folder: Folder Structure 
 - ar-tv/
   - node_modules/  
   - public/
