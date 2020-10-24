@@ -53,6 +53,8 @@
 * if user enter the wrong url so user forward to __NotFound__ component => `<Route path='*' component={NotFound}/>`
 
 
+## Private Routes :door::key:
+
 
 
 
