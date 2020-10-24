@@ -1,5 +1,4 @@
-## Packages:
-{
+## Packages
 `axios`,
 `fontawesome`,
 `formik`,
@@ -31,13 +30,12 @@
 `videojs-seek-buttons`,
 `videojs-titleoverlay`,
 `videojs-vtt-thumbnails` 
-}
 
-## Routes:
-{
+## Routes
 
 
-}
+
+
 
 
 
