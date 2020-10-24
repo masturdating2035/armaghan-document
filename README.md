@@ -68,7 +68,23 @@
 
 ## Components :file_folder:
 ### Intro components and what they are doing in app
-#### Home => `this component Included __Menu, Home Main Slider and Horizontal Slider__`
+#### Home => `this component included Menu, Home Main Slider, Horizontal Slider => included Category and Category Items`
+#### Vod  => `this component exist on Menu and included Movies, Category and Category Items`
+#### SingleVod  => `in Home or Vod component if click on a Movie, user forward to single page that Movie`
+#### Pardis  => `this component exist on Menu and included Cinema for live Movies`
+#### Learning  => `this component exist on Menu and included Learning things for Adult and Kids`
+#### Kids  => `this component exist on Menu and included Kids animation and cartoons`
+#### Login  => `this component exist on Left Home and user can sign or login for access to Private Route`
+#### Packages  => `???`
+#### Invoice  => `???`
+
+
+
+
+
+
+
+
 
 
 
