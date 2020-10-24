@@ -94,7 +94,7 @@
 
 
 ## Folder Structure
-```my-app/
+` my-app/
   README.md
   node_modules/
   package.json
@@ -107,7 +107,7 @@
     App.test.js
     index.css
     index.js
-    logo.svg```
+    logo.svg `
 
 
 
