@@ -85,28 +85,12 @@
 #### EditProfile => `when user login then he/she can Edit his/her Profile`
 #### Series => `this component exist on Menu and included Series Category and Series Item`
 #### SingleSerial => `in Home or Series component if user click on a Serial, user forward to single page that Serial`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Genres => `this component exist on Menu and included Movies and Series Genres`
+#### SingleGenre => `in Genres component if user click on a Genre, user forward to single page that Genre`
+#### Cast => `???`
+#### Sport => `this component exist on Menu and included Live Sports and Archive Sports`
+#### TermsAndConditions => `this component exist on Footer and included Terms and Conditions`
+#### SingleCategory => `???`
 
 
 
