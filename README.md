@@ -1,35 +1,35 @@
 ## Packages :package:
 - `axios`
-- fontawesome
-- formik
-- history
-jalali-moment
-logrocket
-react
-react-dom
-react-countdown
-react-fade-in
-react-image-appear
-react-loading-skeleton
-react-modern-calendar-datepicker
-redux
-react-redux
-redux-thunk
-react-redux-loading-bar
-react-redux-toastr
-react-router-dom
-react-scripts
-react-select
-styled-components
-swiper
-video.js
-videojs-contrib-hls
-videojs-contrib-quality-levels
-videojs-hls-quality-selector
-videojs-landscape-fullscreen
-videojs-seek-buttons
-videojs-titleoverlay
-videojs-vtt-thumbnails
+- `fontawesome`
+- `formik`
+- `history`
+- `jalali-moment`
+- `logrocket`
+- `react`
+- `react-dom`
+- `react-countdown`
+- `react-fade-in`
+- `react-image-appear`
+- `react-loading-skeleton`
+- `react-modern-calendar-datepicker`
+- `redux`
+- `react-redux`
+- `redux-thunk`
+- `react-redux-loading-bar`
+- `react-redux-toastr`
+- `react-router-dom`
+- `react-scripts`
+- `react-select`
+- `styled-components`
+- `swiper`
+- `video.js`
+- `videojs-contrib-hls`
+- `videojs-contrib-quality-levels`
+- `videojs-hls-quality-selector`
+- `videojs-landscape-fullscreen`
+- `videojs-seek-buttons`
+- `videojs-titleoverlay`
+- `videojs-vtt-thumbnails`
 
 
 ## Routes :door:
