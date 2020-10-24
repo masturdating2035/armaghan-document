@@ -1,5 +1,5 @@
 ## Packages :package:
-- axios
+- `axios`
 - fontawesome
 - formik
 - history
