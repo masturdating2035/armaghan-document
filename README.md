@@ -69,14 +69,22 @@
 ## Components :file_folder:
 ### Intro components and what they are doing in app
 #### Home => `this component included Menu, Home Main Slider, Horizontal Slider => included Category and Category Items`
-#### Vod  => `this component exist on Menu and included Movies, Category and Category Items`
-#### SingleVod  => `in Home or Vod component if click on a Movie, user forward to single page that Movie`
+#### Vod  => `this component exist on Menu and included Movies Category and Movies Item`
+#### SingleVod  => `in Home or Vod component if user click on a Movie, user forward to single page that Movie`
 #### Pardis  => `this component exist on Menu and included Cinema for live Movies`
 #### Learning  => `this component exist on Menu and included Learning things for Adult and Kids`
 #### Kids  => `this component exist on Menu and included Kids animation and cartoons`
-#### Login  => `this component exist on Left Home and user can sign or login for access to Private Route`
+#### Login  => `this component exist on Left Menu and user can sign or login for access to Private Route`
 #### Packages  => `???`
 #### Invoice  => `???`
+#### PaymentReceipt  => `???`
+#### Live  => `this component exist on Menu and included Tv Shows`
+#### FullScreenPlayer  => `???`
+#### Search => `this component exist on Left Menu and when user want to search Movie or Series, can use this`
+#### Profile => `when user login then he/she can see his/her Profile`
+#### EditProfile => `when user login then he/she can Edit his/her Profile`
+#### Series => `this component exist on Menu and included Series Category and Series Item`
+#### SingleSerial => `in Home or Series component if user click on a Serial, user forward to single page that Serial`
 
 
 
@@ -106,7 +114,15 @@
 
 
 
-#### if action call an api start with *get*,              example : `getHomeSlider`
-#### if action set data to store start with *set*,        example : `setHomeSlider`
-#### if action clear store start with *clear*,            example : `clearHomeSlider`
-#### if action set loading , start with *is_x_loading*,   example : `isHomeSliderLoading`
+
+
+
+
+
+
+
+
+#### if action call an api start with get,              example : `getHomeSlider`
+#### if action set data to store start with set,        example : `setHomeSlider`
+#### if action clear store start with clear,            example : `clearHomeSlider`
+#### if action set loading , start with is_x_loading,   example : `isHomeSliderLoading`
