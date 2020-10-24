@@ -68,8 +68,7 @@
 
 ## Components :file_folder:
 ### Intro components and what they are doing in app
-##### Home => 
-* this component Included __Menu, Home Main Slider and Horizontal Slider__ 
+#### Home => `this component Included __Menu, Home Main Slider and Horizontal Slider__`
 
 
 
