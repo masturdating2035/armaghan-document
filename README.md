@@ -1,8 +1,8 @@
 ## Packages :package:
-`axios
-fontawesome
-formik
-history
+- axios
+- fontawesome
+- formik
+- history
 jalali-moment
 logrocket
 react
@@ -29,7 +29,7 @@ videojs-hls-quality-selector
 videojs-landscape-fullscreen
 videojs-seek-buttons
 videojs-titleoverlay
-videojs-vtt-thumbnails` 
+videojs-vtt-thumbnails
 
 
 ## Routes :door:
