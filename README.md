@@ -66,6 +66,9 @@
 * this route forward user to __EditProfile__ component                  => `<PrivateRoute path='/profile/edit' isAuth={this.props.isAuth} component={EditProfile}/>`
 
 
+## Components :file_folder:
+### Intro components and what they are doing in app
+##### Home => * this component Included __Menu, Home Main Slider and Horizontal Slider__ 
 
 
 
