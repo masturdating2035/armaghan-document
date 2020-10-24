@@ -32,7 +32,8 @@
 `videojs-vtt-thumbnails` 
 
 
-## Routes
+## Routes :door:
+* this route forward user to Home component <Route path='/' exact component={Home}/>
 
 
 
