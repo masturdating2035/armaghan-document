@@ -33,10 +33,10 @@
 
 
 ## Routes :door:
-* this route forward user to > Home component => `<Route path='/' exact component={Home}/>`
-* this route forward user to > Vod component => `<Route path='/vod' exact component={Vod}/>`
-* this route forward user to > SingleVod component => `<Route path='/vod/:id' component={SingleVod}/>`
-* this route forward user to > Pardis component => `<Route path='/pardis' component={Pardis}/>
+* this route forward user to #### Home component => `<Route path='/' exact component={Home}/>`
+* this route forward user to #### Vod component => `<Route path='/vod' exact component={Vod}/>`
+* this route forward user to #### SingleVod component => `<Route path='/vod/:id' component={SingleVod}/>`
+* this route forward user to #### Pardis component => `<Route path='/pardis' component={Pardis}/>
 `
 
 
