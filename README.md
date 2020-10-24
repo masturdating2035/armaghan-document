@@ -58,12 +58,12 @@
 
 
 ## Private Routes :door::lock:
-- __This is Private Routes, if user login, he/she can enter to Private Routes__
- - this route forward user to __Packages__ component                     => `<PrivateRoute path='/accounting/packages' isAuth={this.props.isAuth} component={Packages}/>`
- - this route forward user to __Invoice__ component                      => `<PrivateRoute path='/invoice/preview/:id' exact isAuth={this.props.isAuth} component={Invoice}/>`
- - this route forward user to __FullScreenPlayer__ component             => `<PrivateRoute path='/arm/player/:id' isAuth={this.props.isAuth} component={FullScreenPlayer}/>`
- - this route forward user to __Profile__ component                      => `<PrivateRoute path='/profile' exact isAuth={this.props.isAuth} component={Profile}/>`
- - this route forward user to __EditProfile__ component                  => `<PrivateRoute path='/profile/edit' isAuth={this.props.isAuth} component={EditProfile}/>`
+### This is Private Routes, if user login, he/she can enter to Private Routes
+* this route forward user to __Packages__ component                     => `<PrivateRoute path='/accounting/packages' isAuth={this.props.isAuth} component={Packages}/>`
+* this route forward user to __Invoice__ component                      => `<PrivateRoute path='/invoice/preview/:id' exact isAuth={this.props.isAuth} component={Invoice}/>`
+* this route forward user to __FullScreenPlayer__ component             => `<PrivateRoute path='/arm/player/:id' isAuth={this.props.isAuth} component={FullScreenPlayer}/>`
+* this route forward user to __Profile__ component                      => `<PrivateRoute path='/profile' exact isAuth={this.props.isAuth} component={Profile}/>`
+* this route forward user to __EditProfile__ component                  => `<PrivateRoute path='/profile/edit' isAuth={this.props.isAuth} component={EditProfile}/>`
 
 
 
