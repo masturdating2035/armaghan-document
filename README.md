@@ -66,7 +66,7 @@
 * this route forward user to __EditProfile__ component                  => `<PrivateRoute path='/profile/edit' isAuth={this.props.isAuth} component={EditProfile}/>`
 
 
-## Components :file_folder:
+## Components :pushpin:
 ### Intro components and what they are doing in app
 #### Home => `this component included Menu, Home Main Slider, Horizontal Slider => included Category and Category Items`
 #### Vod  => `this component exist on Menu and included Movies Category and Movies Item`
@@ -93,21 +93,21 @@
 #### SingleCategory => `???`
 
 
-## Folder Structure
-` my-app/
-  README.md
-  node_modules/
-  package.json
-  public/
-    index.html
-    favicon.ico
-  src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg `
+## Folder Structure :file_folder:
+- my-app/
+  - README.md
+  - node_modules/
+  - package.json
+  - public/
+    - index.html
+    - favicon.ico
+  - src/
+    - App.css
+    - App.js
+    - App.test.js
+    - index.css
+    - index.js
+    - logo.svg
 
 
 
