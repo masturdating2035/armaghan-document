@@ -75,11 +75,11 @@
 #### Learning  => `this component exist on Menu and included Learning things for Adult and Kids`
 #### Kids  => `this component exist on Menu and included Kids animation and cartoons`
 #### Login  => `this component exist on Left Menu and user can sign or login for access to Private Route`
-#### Packages  => `???`
-#### Invoice  => `???`
-#### PaymentReceipt  => `???`
+#### Packages  => `if user login and want to see movie and series, this component included Packages to buy subscription`
+#### Invoice  => `if user click one of those Package, he/she can see Invoice for pay`
+#### PaymentReceipt  => `after user pay the price for subscription, he/she can see Payment Receipt`
 #### Live  => `this component exist on Menu and included Tv Shows`
-#### FullScreenPlayer  => `???`
+#### FullScreenPlayer  => `when user click on play button for see movie or series, this component provide him/her Full Screen Player to show movie or serial`
 #### Search => `this component exist on Left Menu and when user want to search Movie or Series, can use this`
 #### Profile => `when user login then he/she can see his/her Profile`
 #### EditProfile => `when user login then he/she can Edit his/her Profile`
@@ -87,10 +87,10 @@
 #### SingleSerial => `in Home or Series component if user click on a Serial, user forward to single page that Serial`
 #### Genres => `this component exist on Menu and included Movies and Series Genres`
 #### SingleGenre => `in Genres component if user click on a Genre, user forward to single page that Genre`
-#### Cast => `???`
+#### Cast => `this component provide user for search movie and series based on actor`
 #### Sport => `this component exist on Menu and included Live Sports and Archive Sports`
 #### TermsAndConditions => `this component exist on Footer and included Terms and Conditions`
-#### SingleCategory => `???`
+#### SingleCategory => `in Home page if user click on more items in specific category, he/she forward to all items on that category`
 
 
 ## :file_folder: Folder Structure 
