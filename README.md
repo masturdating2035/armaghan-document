@@ -130,6 +130,23 @@
 #### category.js => `showing categories in Home page` 
 #### genre.js => `showing categories subset in Home page and show single category` 
 #### home.js => `main slider in Home page and Home Horizontal Slider Lists` 
+#### invoice.js => `invoice for pay for subscription ` 
+#### kid.js => `movies about kid` 
+#### learning.js => `movies about learning` 
+#### pardis.js => `show cinema movies` 
+#### search.js => `search movie and series` 
+#### serial.js => `all of series existance in this page` 
+#### singleProgram.js => `single page for paly movie or serial` 
+#### sport.js => `show live and archive sport` 
+#### index.js => `general action and function` 
+
+
+
+
+
+
+
+
 
 
 
