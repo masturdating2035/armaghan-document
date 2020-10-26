@@ -161,7 +161,7 @@
 #### userReducer.js => `switch on user action for set edited profile and set user birth date and set user mobile and set user payment history and set user profile and set user subscribe status`
 #### vodReducer.js => `switch on user action for set horizontal sliders and set single vod and set slider items and set vod comments and set vod secure link and set movies horizontal sliders items and set vod name`
 
-## General
+## :link: General
 #### if action call an api start with get,              example : `getHomeSlider`
 #### if action set data to store start with set,        example : `setHomeSlider`
 #### if action clear store start with clear,            example : `clearHomeSlider`
