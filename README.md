@@ -155,7 +155,13 @@
 #### paymentReducer.js => `switch on payment action for set payment detail`
 #### playerReducer.js => `switch on player action for set channel list and set active channel`
 #### searchReducer.js => `switch on search action for set searched text and set search result and increase search counter`
-#### serialReducer.js => `switch on serial action for set  set serial header slider and set single serial and set serial seasons and set season episods and set episode secure link and set series horizontal sliders items`
+#### serialReducer.js => `switch on serial action for set serial header slider and set single serial and set serial seasons and set season episods and set episode secure link and set series horizontal sliders items`
+#### singleProgramReducer.js => `switch on singleProgram action for set single program list and set single program secure link`
+#### sportReducer.js => `switch on sport action for set sport live list and set sport live secure link and set sport archive list and set sport archive secure link`
+#### userReducer.js => `switch on user action for set edited profile and set user birth date and set user mobile and set user payment history and set user profile and set user subscribe status`
+#### vodReducer.js => `switch on user action for set horizontal sliders and set single vod and set slider items and set vod comments and set vod secure link and set movies horizontal sliders items and set vod name`
+
+
 
 
 
