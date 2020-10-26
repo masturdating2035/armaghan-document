@@ -127,6 +127,7 @@
   - yarn.lock
  
 
+## :sparkler: Redux
 
 
 
