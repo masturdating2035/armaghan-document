@@ -1,10 +1,8 @@
 ## :package: Packages 
 - `axios`
-- `fontawesome`
 - `formik`
 - `history`
 - `jalali-moment`
-- `logrocket`
 - `react`
 - `react-dom`
 - `react-countdown`
