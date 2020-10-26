@@ -141,6 +141,30 @@
 #### index.js => `general action and function` 
 
 
+## :sparkler: Redux => Reducer
+#### authReducer.js => `switch on auth action for authentication`
+#### castReducer.js => `switch on cast action for set cast vod`
+#### categoryReducer.js => `switch on category action for set single category and more items`
+#### genreReducer.js => `switch on genre action for set all genres and single genre`
+#### homeReducer.js => `switch on home action for set home slider and set home horizontal slider items and set home categories`
+#### invoiceReducer.js => `switch on invoice action for set invoice data`
+#### kidReducer.js => `switch on kid action for set kid main slider and set kid horizontal slider items and set kid categories`
+#### learningReducer.js => `switch on learning action for set learning main slider and set learning horizontal slider items and set learning categories`
+#### packageReducer.js => `switch on package action for set package list`
+#### pardisReducer.js => `switch on pardis action for set pardis main slider and set pardis horizontal slider items`
+#### paymentReducer.js => `switch on payment action for set payment detail`
+#### playerReducer.js => `switch on player action for set channel list and set active channel`
+#### searchReducer.js => `switch on search action for set searched text and set search result and increase search counter`
+#### serialReducer.js => `switch on serial action for set  set serial header slider and set single serial and set serial seasons and set season episods and set episode secure link and set series horizontal sliders items`
+
+
+
+
+
+
+
+
+
 
 
 
