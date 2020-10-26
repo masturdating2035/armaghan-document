@@ -127,7 +127,12 @@
   - yarn.lock
  
 
-## :sparkler: Redux
+## :sparkler: Redux => Actions
+#### cast.js => `in this component use Api.post with id to setCastVod for find specific actor when user click` 
+#### category.js => `in this component use Api.post with id and startItem and endItem to setSingleCategory for showing categories in Home page` 
+#### genre.js => `in this component use Api.post with  endItem:100 to setAllGenres for showing categories subset in Home page` 
+
+
 
 
 
