@@ -1,3 +1,9 @@
+# :crystal_ball: Table of Content
+
+| [Packages](README.md#package-packages) | [Routes](README.md#door-routes) | | [Public Routes](README.md#unlock-public-routes) | | [Private Routes](README.md#lock-private-routes) | | [Components](README.md#pushpin-components) | [Folder Structure](README.md#file_folder-folder-structure) | | [Redux-Actions](README.md#sparkler-redux-actions) | | [Redux-Reducers](README.md#sparkler-redux-reducers) | | [General](README.md#link-general) |
+  
+
+
 ## :package: Packages 
 - `axios`
 - `formik`
@@ -51,11 +57,11 @@
 * If user enter the wrong url so user forward to __NotFound__ component => `<Route path='*' component={NotFound}/>`
 
 
-## :door::unlock: Public Routes 
+## :unlock: Public Routes 
 * This is Public Route, if user want to enter Private Route must be login first  => `<PublicRoute path='/login' isAuth={this.props.isAuth} component={Login}/>`
 
 
-## :door::lock: Private Routes 
+## :lock: Private Routes 
 ### This is Private Routes, if user login, he/she can enter to Private Routes
 * This route forward user to __Packages__ component                     => `<PrivateRoute path='/accounting/packages' isAuth={this.props.isAuth} component={Packages}/>`
 * This route forward user to __Invoice__ component                      => `<PrivateRoute path='/invoice/preview/:id' exact isAuth={this.props.isAuth} component={Invoice}/>`
@@ -141,7 +147,7 @@
 #### index.js => `general action and function` 
 
 
-## :sparkler: Redux => Reducer
+## :sparkler: Redux => Reducers
 #### authReducer.js => `switch on auth action for authentication`
 #### castReducer.js => `switch on cast action for set cast vod`
 #### categoryReducer.js => `switch on category action for set single category and more items`
